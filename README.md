@@ -25,5 +25,7 @@ pandas
 3. Click on the open position;s and scrape the salary min max values
 4. Analyze the average salary for different levels and compare to data from Glassdoor or other job sites (web scrape as well) or any 3rd party datasets available
    to see how KP's salary offer compares to the rest of the industry.
-5. Store my list of jobs already appied for in MySQL. Add ability to scrape the status of positions I have applied for and update my the MysQL DB.
+5. Store my list of jobs already appied for in MySQL. Add ability to scrape the status of positions I have applied for and update my the MysQL DB. Create a flask api
+   for the MySQL or PostGres or MongoDB for CRUD operations.
+   
 
